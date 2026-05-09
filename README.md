@@ -2,7 +2,6 @@
 
 **Brave** is a fast-paced 2D survival/puzzle game built with Unity. Players must navigate a hazardous environment filled with dynamic enemies and rotating obstacles to retrieve a key and reach the exit.
 
-![Brave Gameplay Screenshot](image_ab7cdd.png)
 
 ## 🎮 Gameplay Overview
 In **Brave**, you control a red square in a world where everything else is out to stop you. Your objective is simple but challenging:
